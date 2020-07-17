@@ -1,0 +1,5 @@
+load lib
+call function1
+call function2 4
+call function3 function2 1
+wait
